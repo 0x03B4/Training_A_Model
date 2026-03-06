@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Assignment related
+runs/
+track/
+track2/
+*.pt
